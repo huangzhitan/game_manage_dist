@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_project"]=self["webpackChunkvue_project"]||[]).push([[370],{7370:function(u,e,n){n.r(e),n.d(e,{default:function(){return o}});var t=function(){var u=this,e=u._self._c;return e("h1",[u._v("广告列表")])},r=[],l={},c=l,s=n(1001),f=(0,s.Z)(c,t,r,!1,null,null,null),o=f.exports}}]);
+//# sourceMappingURL=370.d0aac2de.js.map
